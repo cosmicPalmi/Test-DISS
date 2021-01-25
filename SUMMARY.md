@@ -9,12 +9,6 @@
   * [Equipment Hierarchies](diss-2.0-training/untitled-1/equipment-hierarchies.md)
   * [Shifts](diss-2.0-training/untitled-1/shifts.md)
 
-## Advanced Administration Tools
-
-* [Admin Configuration](advanced-administration-tools/admin-configuration.md)
-* [Deployment Guide](advanced-administration-tools/deployment-guide.md)
-* [Architecture Guide Book](advanced-administration-tools/architecture-guide-book.md)
-
 ## E-Ideas
 
 * [Approval Workflow](e-ideas/approval-workflow.md)
@@ -23,6 +17,7 @@
 
 ## SIM Boards
 
+* [SIM Boards](sim-boards/sim-boards.md)
 * [SIM 1](sim-boards/sim-1.md)
 * [SIM 2](sim-boards/sim-2.md)
 * [SIM 3](sim-boards/sim-3.md)
@@ -34,4 +29,10 @@
 * [Barriers](barriers.md)
 * [Issues](issues.md)
 * [Actions Management](actions-management.md)
+
+## Advanced Administration Tools
+
+* [Admin Configuration](advanced-administration-tools/admin-configuration.md)
+* [Deployment Guide](advanced-administration-tools/deployment-guide.md)
+* [Architecture Guide Book](advanced-administration-tools/architecture-guide-book.md)
 

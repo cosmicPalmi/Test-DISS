@@ -13,7 +13,7 @@ The DISS main goals are:
 * Simplify the escalation and review of actions and ideas generated through the complete SIM 1 to SIM 5 loop;
 * Provide automatic KPIs for Idea System efficiency.
 
-![DISS Application Main Page](.gitbook/assets/image.png)
+![DISS 2.0 Main Page](.gitbook/assets/image%20%282%29.png)
 
 The mais functional components of DISS are: 
 
