@@ -1,2 +1,0 @@
-# General User Guide \(Pdf\)
-
